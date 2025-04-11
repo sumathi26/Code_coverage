@@ -24,6 +24,7 @@
                     multiply function
           b) Re-run coverage.py: coverage run -m pytest
                                  coverage report -m
+          c)Improved Coverage Percentage: 96%-100%
 # Summary of Each Step
 # 1. Program Development
 A modular calculator with functions for basic arithmetic, including error handling for division.
